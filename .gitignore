@@ -1,0 +1,10 @@
+# Packages
+*.egg
+*.egg-info
+*.spec
+build
+venv
+.idea/
+
+# iPython
+.ipynb_checkpoints/
